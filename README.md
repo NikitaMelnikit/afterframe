@@ -169,7 +169,9 @@ To enable live TMDB data in production, add `VITE_TMDB_API_KEY` (or `VITE_TMDB_R
 under *Project → Settings → Environment Variables* and redeploy. Without it, production runs on
 the offline edition.
 
-CI (GitHub Actions) runs lint, type-check and build on every push and pull request.
+Every push to `main` deploys to production through the Vercel GitHub integration, and pull
+requests get their own preview deployments. CI (GitHub Actions) runs lint, type-check and build on
+every push and pull request.
 
 ## Known limitations
 
