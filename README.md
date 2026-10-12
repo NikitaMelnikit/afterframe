@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/NikitaMelnikit/afterframe/actions/workflows/ci.yml/badge.svg)](https://github.com/NikitaMelnikit/afterframe/actions/workflows/ci.yml)
 
-**Live demo:** _coming soon_
+**Live demo:** [afterframe-mmrtrade.vercel.app](https://afterframe-mmrtrade.vercel.app)
 
 ![AFTERFRAME homepage](docs/preview.jpg)
 
